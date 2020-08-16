@@ -5,7 +5,7 @@
     <div class="bg-blue position-absolute top-0 left-0 py-1 width-full"></div>
     <h3 class="text-gray-dark">Costituzione italiana - Articolo 32</h3>
     <p class="text-gray f3">
-      La Repubblica tutela la salute come fondamentale diritto dell’individuo e interesse della collettività
+      "La Repubblica tutela la salute come fondamentale diritto dell’individuo e interesse della collettività"
     </p>
   </a>
 </div>
