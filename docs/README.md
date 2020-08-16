@@ -27,13 +27,13 @@ L'**ultimo** *report* di **monitoraggio** è [quello per l'anno **2017**](http:/
 
 <h2 class="text-red">Cosa chiediamo</h2>
 
-<h3 class="text-blue">L'aggiornamento annuale dei report di monitoraggio e la loro pubblicazione</h3>
+<h3 class="text-orange-light">L'aggiornamento annuale dei report di monitoraggio e la loro pubblicazione</h3>
 
 La valutazione del "Comitato LEA" dell'adempimento del "Mantenimento nell'erogazione dei LEA" non ha un esito pubblico da 2 anni: **mancano i *report* dell'anno 2018 e del 2019**.
 
-La loro pubblicazione è un altro elemento **essenziale** e **propedeutico** al rispetto del **diritto alla salute**.
+La loro pubblicazione è un elemento **essenziale** e **propedeutico** al rispetto del **diritto alla salute**.
 
-<h3 class="text-blue">La pubblicazione delle tabelle della griglia LEA in formato machine readable</h3>
+<h3 class="text-orange-light">La pubblicazione delle tabelle della griglia LEA in formato machine readable</h3>
 
 > L’obiettivo è creare un Servizio sanitario nazionale che sia sempre al passo con le innovazioni tecnologiche e scientifiche e con le esigenze dei cittadini ([presentazione del 2017](http://www.salute.gov.it/imgs/C_17_notizie_2842_listaFile_itemName_0_file.pdf) de "I nuovi livelli essenziali di assistenza")
 
@@ -43,4 +43,4 @@ Chiediamo di pubblicare le **tabelle regionali** della "**Griglia LEA**" (sotto 
 
 ![](imgs/grigliaLEA.png)
 
-<h3 class="text-blue">La pubblicazione dei report delle riunioni del Comitato LEA</h3>
+<h3 class="text-orange-light">La pubblicazione dei report delle riunioni del Comitato LEA</h3>
