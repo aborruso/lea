@@ -43,7 +43,7 @@ La loro pubblicazione è un elemento **essenziale** e **propedeutico** al rispet
 
 > L’obiettivo è creare un Servizio sanitario nazionale che sia sempre al passo con le innovazioni tecnologiche e scientifiche e con le esigenze dei cittadini ([presentazione del 2017](http://www.salute.gov.it/imgs/C_17_notizie_2842_listaFile_itemName_0_file.pdf) de "I nuovi livelli essenziali di assistenza")
 
-Chiediamo di pubblicare le **tabelle regionali** della "**Griglia LEA**" (sotto un esempio) contenute nel monitoraggio annuale dei LEA ([qui](http://www.salute.gov.it/imgs/C_17_pubblicazioni_2832_allegato.pdf) quello del 2017), anche in formato ***machine readable***.
+Chiediamo di pubblicare le **tabelle regionali** delle "**Griglie LEA**" (sotto un esempio) contenute nel monitoraggio annuale ([qui](http://www.salute.gov.it/imgs/C_17_pubblicazioni_2832_allegato.pdf) quello del 2017), anche in formato ***machine readable***. Per tutti gli anni, per cui sono (e saranno) pubblicati report che le contengono.
 
 È **essenziale** infatti potere **analizzare** i **dati delle griglie** nel tempo e anche in **relazione** ad altri dati (sociali, economici, ecc.). La sola pubblicazione in formato PDF lo impedisce.
 
