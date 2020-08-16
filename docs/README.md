@@ -1,16 +1,18 @@
-> La Repubblica tutela la salute come fondamentale diritto dell'individuo e interesse della collettività
+<blockquote>
+  <p class="f2">La Repubblica tutela la salute come fondamentale diritto dell’individuo e interesse della collettività</p>
+</blockquote>
 
-# I Livelli essenziali di assistenza (LEA)
+Il diritto e la tutela della salute sono un elemento fondante della nostra società. Per questa ragione ci siamo interessati ai **Livelli essenziali di assistenza**, che consentono di monitorare e analizzare l'**assistenza sanitaria** in Italia.
 
-Questo diritto viene garantito ai cittadini erogando i cosìdetti **Livelli essenziali di assistenza** (**LEA**), ovvero le **prestazioni** e i **servizi** che il **Servizio sanitario nazionale** (SSN) **è tenuto a fornire a tutti i cittadini**, gratuitamente o dietro pagamento di una quota di partecipazione (*ticket*), con le risorse pubbliche raccolte attraverso la fiscalità generale (tasse).
+Questo diritto viene garantito erogando i cosìdetti **Livelli essenziali di assistenza** (**LEA**), ovvero le **prestazioni** e i **servizi** che il **Servizio sanitario nazionale** (SSN) **è tenuto a fornire a tutti i cittadini**, gratuitamente o dietro pagamento di una quota di partecipazione (*ticket*), con le risorse pubbliche raccolte attraverso la fiscalità generale (tasse).
 
-I LEA sono definiti in dettaglio nel [Decreto del Presidente del Consiglio dei Ministri (DPCM) del 12 gennaio 2017](http://www.trovanorme.salute.gov.it/norme/dettaglioAtto?id=58669&completo=true), che individua **tre livelli principali**:
+I LEA sono definiti nel [Decreto del Presidente del Consiglio dei Ministri (DPCM) del 12 gennaio 2017](http://www.trovanorme.salute.gov.it/norme/dettaglioAtto?id=58669&completo=true), che individua **tre livelli principali**:
 
 - **Prevenzione collettiva e sanità pubblica**, che comprende tutte le attività di prevenzione rivolte alle collettività ed ai singoli;
 - **Assistenza distrettuale**, vale a dire le attività e i servizi sanitari e socio-sanitari diffusi sul territorio;
 - **Assistenza ospedaliera**.
 
-# Il monitoraggio dei LEA
+## Il monitoraggio dei LEA
 
 > Lo **Stato** ha il **compito** di **determinare** i **Livelli di assistenza** che devono essere garantiti su tutto il territorio nazionale e di **vigilare** sulla loro **effettiva erogazione**
 
@@ -21,15 +23,15 @@ Il Decreto del Ministero della salute del 12 marzo 2019 - "Nuovo sistema di gara
 
 L'**ultimo** *report* di **monitoraggio** è [quello per l'anno **2017**](http://www.salute.gov.it/imgs/C_17_pubblicazioni_2832_allegato.pdf), ed è pubblicato come file PDF.
 
-# Cosa chiediamo
+## Cosa chiediamo
 
-## L'aggiornamento annuale dei report di monitoraggio e la loro pubblicazione
+### L'aggiornamento annuale dei report di monitoraggio e la loro pubblicazione
 
 La valutazione del "Comitato LEA" dell'adempimento del "Mantenimento nell'erogazione dei LEA" non ha un esito pubblico da 2 anni: **mancano i *report* dell'anno 2018 e del 2019**.
 
 La loro pubblicazione è un altro elemento **essenziale** e **propedeutico** al rispetto del **diritto alla salute**.
 
-## La pubblicazione delle tabelle della griglia LEA in formato machine readable
+### La pubblicazione delle tabelle della griglia LEA in formato machine readable
 
 > L’obiettivo è creare un Servizio sanitario nazionale che sia sempre al passo con le innovazioni tecnologiche e scientifiche e con le esigenze dei cittadini ([presentazione del 2017](http://www.salute.gov.it/imgs/C_17_notizie_2842_listaFile_itemName_0_file.pdf) de "I nuovi livelli essenziali di assistenza")
 
@@ -37,6 +39,6 @@ Chiediamo di pubblicare le **tabelle regionali** della "**Griglia LEA**" (sotto 
 
 È **essenziale** infatti potere **analizzare** i **dati delle griglie** nel tempo e anche in **relazione** ad altri dati (sociali, economici, ecc.). La sola pubblicazione in formato PDF lo impedisce.
 
-## La pubblicazione dei report delle riunioni del Comitato LEA
-
 ![](imgs/grigliaLEA.png)
+
+### La pubblicazione dei report delle riunioni del Comitato LEA
