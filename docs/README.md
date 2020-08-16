@@ -4,7 +4,7 @@
   <p class="f2">La Repubblica tutela la salute come fondamentale diritto dell’individuo e interesse della collettività</p>
 </blockquote>
 
-Il diritto e la tutela della salute sono un elemento fondante della nostra società. Per questa ragione ci siamo interessati ai **Livelli essenziali di assistenza**, che consentono di monitorare e analizzare l'**assistenza sanitaria** in Italia.
+Il diritto e la tutela della salute sono un **elemento fondante** della nostra **società**.
 
 Questo diritto viene garantito erogando i cosìdetti **Livelli essenziali di assistenza** (**LEA**), ovvero le **prestazioni** e i **servizi** che il **Servizio sanitario nazionale** (SSN) **è tenuto a fornire a tutti i cittadini**, gratuitamente o dietro pagamento di una quota di partecipazione (*ticket*), con le risorse pubbliche raccolte attraverso la fiscalità generale (tasse).
 
