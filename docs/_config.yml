@@ -1,0 +1,11 @@
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - README.md
+remote_theme: "pages-themes/primer"
+title: Disegni di Legge ARS e delibere e leggi approvate
+description: Per essere avvisati per nuove proposte di Disegni di Legge dell'Assemblea Regionale Siciliana (ARS) e per delibere e leggi approvate
+lang: it-IT
