@@ -1,8 +1,14 @@
-<h1 class="text-blue">Livelli essenziali di assistenza (LEA): le nostre richieste essenziali</h1>
+<h1 class="text-blue anim-fade-in">Livelli essenziali di assistenza (LEA): le nostre richieste essenziali</h1>
 
-<blockquote>
-  <p class="f2">La Repubblica tutela la salute come fondamentale diritto dell’individuo e interesse della collettività</p>
-</blockquote>
+<div class="col-12">
+  <a style="padding-bottom: 10px !important;margin-bottom: 15px;" class="d-block box-shadow-medium px-3 pt-4 pb-6 position-relative rounded-1 overflow-hidden no-underline" href="#">
+    <div class="bg-blue position-absolute top-0 left-0 py-1 width-full"></div>
+    <h3 class="text-gray-dark">Costituzione italiana - Articolo 32</h3>
+    <p class="text-gray f3">
+      La Repubblica tutela la salute come fondamentale diritto dell’individuo e interesse della collettività
+    </p>
+  </a>
+</div>
 
 Il diritto e la tutela della salute sono un **elemento fondante** della nostra **società**.
 
