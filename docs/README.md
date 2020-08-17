@@ -20,7 +20,7 @@ I LEA sono definiti nel [Decreto del Presidente del Consiglio dei Ministri (DPCM
 
 <h2 class="text-green">Il monitoraggio dei LEA</h2>
 
-> Lo **Stato** ha il **compito** di **determinare** i **Livelli di assistenza** che devono essere garantiti su tutto il territorio nazionale e di **vigilare** sulla loro **effettiva erogazione**
+> "*Lo **Stato** ha il **compito** di **determinare** i **Livelli di assistenza** che devono essere garantiti su tutto il territorio nazionale e di **vigilare** sulla loro **effettiva erogazione***" ([link](http://www.salute.gov.it/portale/lea/dettaglioContenutiLea.jsp?lingua=italiano&id=4694&area=Lea&menu=leaEssn#intestazioneContenuto:~:text=Lo%20Stato%20ha%20il%20compito%20di,di%20vigilare%20sulla%20loro%20effettiva%20erogazione.))
 
 A tale scopo, presso il Ministero della Salute, è stato istituito il **Comitato permanente per la verifica dell'erogazione dei Livelli Essenziali di Assistenza** (Comitato LEA). Questo monitoraggio - fino al 2019 - si effettua grazie all'utilizzo della cosìdetta "[**Griglia LEA**](http://www.salute.gov.it/portale/lea/dettaglioContenutiLea.jsp?lingua=italiano&id=4747&area=Lea&menu=monitoraggioLea)", che consente di conoscere e cogliere nell'insieme la diversità ed il disomogeneo livello di erogazione dei livelli di assistenza.<br>
 I **risultati** della **valutazione** dell'**adempimento "Mantenimento nell'erogazione dei LEA"** dovrebbero essere **presentati annualmente**.
@@ -39,7 +39,7 @@ La loro pubblicazione è un elemento **essenziale** e **propedeutico** al rispet
 
 <h3 class="text-orange-light">La pubblicazione delle tabelle della griglia LEA in formato machine readable</h3>
 
-> L’obiettivo è creare un Servizio sanitario nazionale che sia sempre **al passo con le innovazioni tecnologiche e scientifiche** e con le esigenze dei cittadini (vedi [presentazione del 2017](http://www.salute.gov.it/imgs/C_17_notizie_2842_listaFile_itemName_0_file.pdf) de "I nuovi livelli essenziali di assistenza").
+> "*L’obiettivo è creare un Servizio sanitario nazionale che sia sempre **al passo con le innovazioni tecnologiche e scientifiche** e con le esigenze dei cittadini*" (vedi [presentazione del 2017](http://www.salute.gov.it/imgs/C_17_notizie_2842_listaFile_itemName_0_file.pdf) de "I nuovi livelli essenziali di assistenza").
 
 Chiediamo di pubblicare le **tabelle regionali** delle "**Griglie LEA**" (sotto un esempio) contenute nel monitoraggio annuale ([qui](http://www.salute.gov.it/imgs/C_17_pubblicazioni_2832_allegato.pdf) quello del 2017), anche in formato ***machine readable***. Per tutti gli anni, per cui sono (e saranno) pubblicati report che le contengono.
 
