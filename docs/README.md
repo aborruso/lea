@@ -5,12 +5,10 @@
     <div class="bg-blue position-absolute top-0 left-0 py-1 width-full"></div>
     <h3 class="text-gray-dark">Costituzione italiana - Articolo 32</h3>
     <p class="text-gray f3">
-      "La Repubblica tutela la salute come fondamentale diritto dell’individuo e interesse della collettività"
+      "La Repubblica tutela la <strong>salute</strong> come <strong>fondamentale diritto</strong> dell’individuo e interesse della collettività"
     </p>
   </a>
 </div>
-
-Il diritto e la tutela della salute sono un **elemento fondante** della nostra **società**.
 
 Questo diritto viene garantito erogando i cosìdetti **Livelli essenziali di assistenza** (**LEA**), ovvero le **prestazioni** e i **servizi** che il **Servizio sanitario nazionale** (SSN) **è tenuto a fornire a tutti i cittadini**, gratuitamente o dietro pagamento di una quota di partecipazione (*ticket*), con le risorse pubbliche raccolte attraverso la fiscalità generale (tasse).
 
