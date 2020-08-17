@@ -14,9 +14,9 @@ Questo diritto viene garantito erogando i cosìdetti **Livelli essenziali di ass
 
 I LEA sono definiti nel [Decreto del Presidente del Consiglio dei Ministri (DPCM) del 12 gennaio 2017](http://www.trovanorme.salute.gov.it/norme/dettaglioAtto?id=58669&completo=true), che individua **tre livelli principali**:
 
-- **Prevenzione collettiva e sanità pubblica**, che comprende tutte le attività di prevenzione rivolte alle collettività ed ai singoli;
-- **Assistenza distrettuale**, vale a dire le attività e i servizi sanitari e socio-sanitari diffusi sul territorio;
-- **Assistenza ospedaliera**.
+- **prevenzione collettiva e sanità pubblica**, che comprende tutte le attività di prevenzione rivolte alle collettività ed ai singoli;
+- **assistenza distrettuale**, vale a dire le attività e i servizi sanitari e socio-sanitari diffusi sul territorio;
+- **assistenza ospedaliera**.
 
 <h2 class="text-green">Il monitoraggio dei LEA</h2>
 
