@@ -24,7 +24,7 @@ I LEA sono definiti nel [Decreto del Presidente del Consiglio dei Ministri (DPCM
 
 > Lo **Stato** ha il **compito** di **determinare** i **Livelli di assistenza** che devono essere garantiti su tutto il territorio nazionale e di **vigilare** sulla loro **effettiva erogazione**
 
-A tale scopo, presso il Ministero della Salute, è stato istituito il **Comitato permanente per la verifica dell'erogazione dei Livelli Essenziali di Assistenza** (Comitato LEA). Questo monitoraggio - fino al 2019 - si effettua grazie all'utilizzo della cosìdetta "**Griglia LEA**", che consente di conoscere e cogliere nell'insieme la diversità ed il disomogeneo livello di erogazione dei livelli di assistenza.<br>
+A tale scopo, presso il Ministero della Salute, è stato istituito il **Comitato permanente per la verifica dell'erogazione dei Livelli Essenziali di Assistenza** (Comitato LEA). Questo monitoraggio - fino al 2019 - si effettua grazie all'utilizzo della cosìdetta "[**Griglia LEA**](http://www.salute.gov.it/portale/lea/dettaglioContenutiLea.jsp?lingua=italiano&id=4747&area=Lea&menu=monitoraggioLea)", che consente di conoscere e cogliere nell'insieme la diversità ed il disomogeneo livello di erogazione dei livelli di assistenza.<br>
 I **risultati** della **valutazione** dell'**adempimento "Mantenimento nell'erogazione dei LEA"** dovrebbero essere **presentati annualmente**.
 
 Il Decreto del Ministero della salute del 12 marzo 2019 ha introdotto il "Nuovo Sistema di Garanzia" (NSG), che sostituisce dal 1 gennaio 2020 la "Griglia LEA", con l'obiettivo di verificare secondo le dimensioni dell'equità, dell'efficacia, e della appropriatezza che tutti i cittadini italiani ricevano le cure e le prestazioni rientranti nei LEA.
