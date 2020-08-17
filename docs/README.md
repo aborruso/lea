@@ -29,7 +29,7 @@ I **risultati** della **valutazione** dell'**adempimento "Mantenimento nell'erog
 
 Il Decreto del Ministero della salute del 12 marzo 2019 ha introdotto il "Nuovo Sistema di Garanzia" (NSG), che sostituisce dal 1 gennaio 2020 la "Griglia LEA", con l'obiettivo di verificare secondo le dimensioni dell'equità, dell'efficacia, e della appropriatezza che tutti i cittadini italiani ricevano le cure e le prestazioni rientranti nei LEA.
 
-L'**ultimo** *report* di **monitoraggio** è [quello per l'anno **2017**](http://www.salute.gov.it/imgs/C_17_pubblicazioni_2832_allegato.pdf), ed è pubblicato come file PDF.
+L'**ultimo** *report* pubblico di **monitoraggio** è [quello per l'anno **2017**](http://www.salute.gov.it/imgs/C_17_pubblicazioni_2832_allegato.pdf), ed è pubblicato come file PDF.
 
 <h2 class="text-red">Cosa chiediamo</h2>
 
